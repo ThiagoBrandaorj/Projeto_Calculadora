@@ -1,0 +1,39 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches and logs
+.cache/
+logs/
+
+# Virtual environment
+venv/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+__pyinstaller/
+
+# PySide6 specific
+ui_*.py
+moc_*.cpp
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
