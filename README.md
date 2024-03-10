@@ -1,4 +1,4 @@
-> Projeto_Calculadora
+# Projeto_Calculadora
 
 >>Nesse projeto utilizando python junto com algumas outras bibliotecas , como o pyside6 , o Qt dentre outas criei uma calculadora com interface gráfica com o usuário
 
