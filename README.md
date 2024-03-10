@@ -2,6 +2,7 @@
 
 Nesse projeto utilizando python junto com algumas outras bibliotecas , como o pyside6 , o Qt dentre outas criei uma calculadora com interface gráfica com o usuário
 
+## Funcionamento
 O funcionamento é similar a de uma calculadora comum , porém com algumas modificações :
 A calculadora utiliza o resultado da conta anterior como base para a conta seguinte , então 
 se você realizou na primeira operação 5 + 5 e clicar em - a conta que será realizada será 10 - x , sendo x o número escolhido por você , para limpar o registrador e poder fazer um aconta do zero , você pode apenas clicar no botão "C" (clear). A seguir a lista de botões e os propositos :
