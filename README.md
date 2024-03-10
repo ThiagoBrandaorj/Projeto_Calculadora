@@ -7,7 +7,7 @@ A calculadora opera de maneira semelhante a uma calculadora convencional, com al
 - Operações Contínuas: A calculadora utiliza o resultado da operação anterior como base para a próxima. Por exemplo, se você realizar a operação 5 + 5 e clicar em "-", a próxima operação será "10 - x", sendo x o número escolhido por você.
 -  Limpeza do Registrador: Para reiniciar a calculadora e limpar o registrador, basta clicar no botão "C" (clear).
 
-### Lista de Botões e Propósitos
+## Lista de Botões e Propósitos
 C -> Limpa o registrador e reinicia a calculadora
 ^ -> Operador de potênciação
 / -> Operador de divisão
