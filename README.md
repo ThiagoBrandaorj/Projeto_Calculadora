@@ -4,9 +4,8 @@ Neste projeto, desenvolvi uma calculadora com interface gráfica utilizando Pyth
 
 ## Funcionamento
 A calculadora opera de maneira semelhante a uma calculadora convencional, com algumas modificações interessantes:
-- A calculadora utiliza o resultado da conta anterior como base para a conta seguinte , então 
-se você realizou na primeira operação 5 + 5 e clicar em - a conta que será realizada será 10 - x , sendo x o número escolhido por você , para limpar o registrador e poder fazer um aconta do zero , você pode apenas clicar no botão "C" (clear). A seguir a lista de botões e os propositos :
-
+- Operações Contínuas: A calculadora utiliza o resultado da operação anterior como base para a próxima. Por exemplo, se você realizar a operação 5 + 5 e clicar em "-", a próxima operação será "10 - x", sendo x o número escolhido por você.
+-  Limpeza do Registrador: Para reiniciar a calculadora e limpar o registrador, basta clicar no botão "C" (clear).
 C -> Limpa o registrador e reinicia a calculadora
 ^ -> Operador de potênciação
 / -> Operador de divisão
